@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -32,6 +32,8 @@ gem 'bootstrap-sass'
 gem 'paperclip', '~> 5.1'
 
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
+
+gem 'devise'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
